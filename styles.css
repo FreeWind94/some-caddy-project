@@ -1,20 +1,17 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f2f5;
+    
+    background-color: #e1e5eb;
     display: flex;
     justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
 }
 .card {
     background: white;
-    padding: 30px;
-    border-radius: 12px;
+    padding: 20px;
+    border-radius: 10px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
     text-align: center;
 }
 .logo {
-    max-width: 100px;
+    max-width: 150px;
     height: auto;
 }
