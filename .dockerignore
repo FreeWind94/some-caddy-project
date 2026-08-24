@@ -1,0 +1,5 @@
+Dockerfile
+Caddyfile
+.git
+.gitignore
+some-caddy-project.code-workspace
